@@ -1,0 +1,6 @@
+@SprintMicroService_HostAddress = http://localhost:5278/
+
+GET {{SprintMicroService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oaBux9Fo559gC9w+mm88Sl4gpAWBrJDcO9sMO83u2cc=",
+  "Source": "SprintMicroService",
+  "BasePath": "_content/SprintMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
